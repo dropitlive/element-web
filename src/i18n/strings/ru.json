@@ -16,13 +16,13 @@
         "cannot_load_config": "Не удалось загрузить файл конфигурации. Попробуйте обновить страницу.",
         "invalid_configuration_mixed_server": "Неверная конфигурация: нельзя указать default_hs_url вместе с default_server_name или default_server_config",
         "invalid_configuration_no_server": "Неверная конфигурация: сервер по умолчанию не указан.",
-        "invalid_json": "Конфигурация Element содержит неверный JSON. Исправьте проблему и обновите страницу.",
+        "invalid_json": "Конфигурация Drop It содержит неверный JSON. Исправьте проблему и обновите страницу.",
         "invalid_json_detail": "Сообщение из парсера: %(message)s",
         "invalid_json_generic": "Неверный JSON",
-        "misconfigured": "Ваш Element неверно настроен"
+        "misconfigured": "Ваш Drop It неверно настроен"
     },
     "failed_to_start": "Старт не удался",
-    "go_to_element_io": "К element.io",
+    "go_to_element_io": "К dropit.live",
     "incompatible_browser": {
         "browser_links": "Пожалуйста поставьте <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, или <safariLink>Safari</safariLink> для лучшей совместимости.",
         "continue_warning": "Я понимаю риск и хочу продолжить",
@@ -31,10 +31,10 @@
         "summary": "Ваш браузер не может запустить %(brand)s",
         "title": "Неподдерживаемый браузер"
     },
-    "powered_by_matrix": "На технологии Matrix",
+    "powered_by_matrix": "На технологии Drop It",
     "powered_by_matrix_with_logo": "Децентрализованное, зашифрованное общение и сотрудничество на основе $matrixLogo",
     "unknown_device": "Неизвестное устройство",
     "use_brand_on_mobile": "Воспользуйтесь %(brand)s на мобильном телефоне",
     "web_default_device_name": "%(appName)s: %(browserName)s на %(osName)s",
-    "welcome_to_element": "Добро пожаловать в Element"
+    "welcome_to_element": "Добро пожаловать в Drop It"
 }
